@@ -1,2 +1,3 @@
 # python-pi-example
-This is an example project to demonstrate the use of git on ubuntu.
+Now I am trying to push an update of the project onto the git repository
+without looking at the tutorial. Let's hope it works!!
